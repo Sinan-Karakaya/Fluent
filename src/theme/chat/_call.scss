@@ -23,7 +23,7 @@
 			@include mixins.btnSecondary;
 			height: 32px;
 			width: 44px;
-			padding: 24px;
+			padding: 24px !important;
 			svg {
 				width: 18px;
 				height: 18px;
