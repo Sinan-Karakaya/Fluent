@@ -19,11 +19,10 @@
 	.wrapper__4d4fe {
 		gap: 8px;
 		.button__581d0 {
-			@include mixins.btn;
+			@include mixins.btnCall;
 			@include mixins.btnSecondary;
 			height: 32px;
 			width: 44px;
-			padding: 24px !important;
 			svg {
 				width: 18px;
 				height: 18px;
