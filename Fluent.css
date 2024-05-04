@@ -2072,8 +2072,7 @@ body,
   border-color: hsla(0, 0%, 0%, 0.2);
 }
 #app-mount div.controlButton__863c7 {
-  margin: 50px;
-  background-color: red;
+  margin: 0;
 }
 #app-mount button.controlButton__863c7 {
   background: var(--btn-bg);
@@ -3691,6 +3690,9 @@ body,
 }
 #app-mount .component_d53fb7 {
   margin: 4px !important;
+}
+#app-mount .staticButton_e090bc {
+  padding: 24px;
 }
 
 #app-mount .input-2g-os5:not(.multiInput-1VARjC, .multiInputField-1zyopx, .input-2yCVqe),
