@@ -2027,7 +2027,7 @@ body,
 }
 #app-mount .wrapper__4d4fe .button__581d0 {
   border-radius: var(--btn-radius);
-  padding: 4px 10px;
+  padding: 24px;
   line-height: 20px;
   font-size: var(--font-size-sm);
   display: inline-flex;
@@ -2044,7 +2044,6 @@ body,
   cursor: var(--cursor);
   height: 32px;
   width: 44px;
-  padding: 24px !important;
 }
 #app-mount .wrapper__4d4fe .button__581d0:hover {
   background: var(--btn-bg-hover);
