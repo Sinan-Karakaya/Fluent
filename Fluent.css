@@ -3542,7 +3542,7 @@ body,
 #app-mount .button__581d0,
 #app-mount .button__581d0 {
   border-radius: var(--btn-radius);
-  padding: 4px 10px;
+  padding: 24px;
   line-height: 20px;
   font-size: var(--font-size-sm);
   cursor: var(--cursor);
@@ -3690,9 +3690,6 @@ body,
 }
 #app-mount .component_d53fb7 {
   margin: 4px !important;
-}
-#app-mount .staticButton_e090bc {
-  padding: 24px;
 }
 
 #app-mount .input-2g-os5:not(.multiInput-1VARjC, .multiInputField-1zyopx, .input-2yCVqe),
