@@ -2044,6 +2044,7 @@ body,
   cursor: var(--cursor);
   height: 32px;
   width: 44px;
+  padding: 24px;
 }
 #app-mount .wrapper__4d4fe .button__581d0:hover {
   background: var(--btn-bg-hover);
@@ -3542,7 +3543,7 @@ body,
 #app-mount .button__581d0,
 #app-mount .button__581d0 {
   border-radius: var(--btn-radius);
-  padding: 24px;
+  padding: 4px 10px;
   line-height: 20px;
   font-size: var(--font-size-sm);
   cursor: var(--cursor);
